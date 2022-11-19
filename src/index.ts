@@ -1,3 +1,4 @@
 import capitalize from "./capitalize";
+import removeDuplicates from "./removeDuplicates";
 
-export { capitalize };
+export { capitalize, removeDuplicates };
